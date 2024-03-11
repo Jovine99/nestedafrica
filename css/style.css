@@ -59,7 +59,8 @@ img {
 .topnav {
   background-color: #fff;
   overflow: hidden;
-    position:absolute
+    position:absolute;
+    top:50px
 }
 
 /* Style the links inside the navigation bar */
